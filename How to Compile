@@ -1,0 +1,2 @@
+g++ student.cpp -o student
+./student
